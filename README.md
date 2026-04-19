@@ -40,7 +40,13 @@ This project is structured over a 4-week timeline, with each week focusing on a 
 
 ---
 
-## 👤 Author
+## � Dataset on Kaggle
+The cleaned and preprocessed dataset used in this project is available on Kaggle for public access and further exploration:  
+**[Student Opportunity Participation Dataset](https://www.kaggle.com/datasets/zainlatif/student-opportunity-participation-dataset)**
+
+---
+
+## �👤 Author
 **Zain Latif**
 * **GitHub:** [@zainlatif](https://github.com/zainlatif)
 * **LinkedIn:** [zainlatif702](https://www.linkedin.com/in/zainlatif702)
